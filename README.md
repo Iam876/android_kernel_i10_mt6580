@@ -1,6 +1,6 @@
 Device CodeName      | Device Model         | Status          	   | Defconfig(s)
 --------------------:|:--------------------:|:--------------------:|:--------------------
- p4200 				 | *Symphony_i10* 			| *Not Tested* 		   | p4200_defconfig, p4200_debug_defconfig
+ p4200 				 | *Symphony i10* 			| *Tested (Touch bug)* 		   | p4200_defconfig, p4200_debug_defconfig
  p5000 				 | *Unknown* 			| *Not Tested*		   | p5000_defconfig, p5000_debug_defconfig
  s5030 				 | BLU_D030UX 			| *Not Tested* 		   | s5030_defconfig, s5030_debug_defconfig
  s5250 				 | BLU_D010U 			| *Not Tested* 		   | s5250_defconfig, s5250_debug_defconfig
